@@ -59,17 +59,41 @@
     "screenshot": "screenshot.png",
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#ffffff",
+      "colorButton": "#1a449a",
+      "rejectColor": "#ffffff",
+      "colorLink": "#101511",
+      "underlineLink": true,
+      "opacityOverlay": "0",
+      "bgOpacity": "100",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "GOT IT",
+      "rejectText": "REJECT"
+    },
+    "favicon": false,
+    "mbrsiteDomain": "zaeoxnylkf",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Searena",
+        "meta_descr": "Enjoy an exceptional charter experience where we handle every detail—from itinerary to onboard luxury—ensuring a seamless and unforgettable journey!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "socialSharingUrl": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/dji-719-2454x1840.jpg"
       },
       "components": [
         {
